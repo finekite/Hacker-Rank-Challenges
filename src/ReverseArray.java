@@ -2,7 +2,8 @@ import java.io.*;
 import java.util.*;
 
 
-//
+//Users first input will decide how long the array should be. Second input is the index 
+//for each element. Finally the program reverses the outputs the reverse of the array.
 
 
 public class ReverseArray {

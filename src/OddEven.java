@@ -5,8 +5,9 @@ public class OddEven {
 
 	public static void main(String[] args) {
 		/*
-		 * Enter your code here. Read input from STDIN. Print output to STDOUT.
-		 * Your class should be named Solution.
+		 * This code will take a specific amount of strings (decided by the user) and output the even letters
+		 * first followed by a space then the odd letters
+		 * for example "Hacker" would be  "Hce akr"
 		 */  
 		Scanner sc = new Scanner(System.in);
 		System.out.println("enter number");
