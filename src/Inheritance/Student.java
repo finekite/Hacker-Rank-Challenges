@@ -1,4 +1,7 @@
 package Inheritance;
+/*
+ * See solution class for explation
+ */
 class Student extends Person{
 	private int[] testScores;
     
