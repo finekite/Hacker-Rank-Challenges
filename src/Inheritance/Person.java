@@ -1,6 +1,8 @@
 package Inheritance;
 import java.util.*;
-
+ /*
+  * See Solution class for explanation
+  */
 class Person {
 	protected String firstName;
 	protected String lastName;

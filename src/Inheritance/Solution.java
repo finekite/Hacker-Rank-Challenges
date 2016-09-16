@@ -1,6 +1,12 @@
 package Inheritance;
 import java.util.Scanner;
-
+/*
+ * A Simple Inheritance exercise. Student class extends Person class and invokes 
+ * the superclass constructor. User enters their firstname, lastname,id,number of tests
+ * and each ones test score. The program first invokes the printPerson() method from 
+ * the superclass using the reference from the Student object. It uses the calculate()
+ *  method that calculates the Average and outputs the correct letter grade.
+ */
 class Solution {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
