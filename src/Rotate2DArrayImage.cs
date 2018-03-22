@@ -24,7 +24,6 @@ namespace QLChallenge
                 int iIncrementor = 0;
                 for (int i = 0; i <= a.Length - 1; i++)
                 {
-                    count = 0;
                     decrementor = lengthDecremeter;
                     iIncrementor = i;
                     for (int j = decrementor; j >= 0; j--)
